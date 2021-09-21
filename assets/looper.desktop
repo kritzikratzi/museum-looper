@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Museum Looper
+Comment=
+Exec=lxterminal --working-directory=/home/pi/looper --command="python3 looper.py"
